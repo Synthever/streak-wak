@@ -157,7 +157,7 @@ def main():
     if len(sys.argv) > 1:
         target_url = sys.argv[1]
     else:
-        target_url = input("Enter target URL (e.g., http://example.com): ").strip()
+        target_url = input("Enterssssssssssssss target URL (e.g., http://example.com): ").strip()
     
     if not target_url:
         print("[-] Please provide a valid URL")
